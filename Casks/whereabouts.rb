@@ -11,8 +11,8 @@
 #   2. Replace `sha256` with the SHA256 printed in the GitHub Actions release summary.
 
 cask "whereabouts" do
-  version "1.0.0"
-  sha256 "16608565910d15854eefebf4210f9593c43f713938a4087e88a5f1d425e13d86"
+  version "1.1.0"
+  sha256 "733b577b1f69aa618679fba59fcf213e765276cead4ec2f4096a4cfb2c331999"
 
   url "https://github.com/zekevh/Whereabouts/releases/download/v#{version}/Whereabouts-#{version}.dmg"
 
